@@ -10,10 +10,6 @@ Short text quest made with React & Redux , fetching and processing an API with T
 - Quest Map
 - Quest History
 
-## View it live
-
-https://mary-snopok-text-quest.netlify.app/
-
 ## Attribution
 
 Kobby Mendez -https://unsplash.com/@kobbyfotos
